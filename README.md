@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 
 ### 3. Start the Streamlit App
-streamlit run app.py
+python -m streamlit run app.py
 
 
 📊 Dataset Source : Kaggle Dataset
